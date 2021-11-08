@@ -97,7 +97,7 @@ final List<Music> musics = [
       avatar: "images/m2.jpeg",
       author: "Elton John & Dua Lipa",
       content: "It's a human sign When things go wrong When the scent of her lingers And temptation's strong Cold, cold heart Hard done by you Some things looking better, baby Just passing through (oh, no, no, no, no)",
-      createdAt: "28 - 29 Jun 2021",
+      createdAt: "28 - 21 Jun 2021",
       updatedAt: "4PM - 6PM",
       speakers: [
         Speaker(name: "Elton John", avatar: "images/m1.jpeg"),
