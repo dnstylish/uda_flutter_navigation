@@ -45,111 +45,106 @@ final List<Music> musics = [
       ]
   ),
   Music(
-      name: "Cold Heart (PNAU Remix)",
-      avatar: "images/m2.jpeg",
-      author: "Elton John & Dua Lipa",
+      name: "Run Now - Chạy Ngay Đi",
+      avatar: "images/ms2.jpg",
+      author: "Sơn Tùng MTP",
       content: "It's a human sign When things go wrong When the scent of her lingers And temptation's strong Cold, cold heart Hard done by you Some things looking better, baby Just passing through (oh, no, no, no, no)",
-      createdAt: "28 - 29 Jun 2021",
-      updatedAt: "4PM - 6PM",
+      createdAt: "2020",
+      updatedAt: "0AM",
       speakers: [
-        Speaker(name: "Elton John", avatar: "images/m1.jpeg"),
-        Speaker(name: "Dua Lipa", avatar: "images/dua-lipa.jpeg")
+        Speaker(name: "Sơn Tùng MTP", avatar: "images/sg2.jpg"),
       ]
   ),
   Music(
-      name: "Cold Heart (PNAU Remix)",
-      avatar: "images/m1.jpeg",
-      author: "Elton John & Dua Lipa",
+      name: "Chúng Ta Của Hiện Tại",
+      avatar: "images/ms3.jpg",
+      author: "Sơn Tùng MTP",
       content: "It's a human sign When things go wrong When the scent of her lingers And temptation's strong Cold, cold heart Hard done by you Some things looking better, baby Just passing through (oh, no, no, no, no)",
-      createdAt: "28 - 29 Jun 2021",
-      updatedAt: "4PM - 6PM",
+      createdAt: "2021",
+      updatedAt: "0AM",
       speakers: [
-        Speaker(name: "Elton John", avatar: "images/m1.jpeg"),
-        Speaker(name: "Dua Lipa", avatar: "images/dua-lipa.jpeg")
+        Speaker(name: "Sơn Tùng MTP", avatar: "images/sg2.jpg"),
       ]
   ),
   Music(
-      name: "Cold Heart (PNAU Remix)",
-      avatar: "images/m2.jpeg",
-      author: "Elton John & Dua Lipa",
+      name: "Nắm Đôi Bàn Tay",
+      avatar: "images/ms4.jpg",
+      author: "Kay Trần",
       content: "It's a human sign When things go wrong When the scent of her lingers And temptation's strong Cold, cold heart Hard done by you Some things looking better, baby Just passing through (oh, no, no, no, no)",
-      createdAt: "28 - 29 Jun 2021",
-      updatedAt: "4PM - 6PM",
+      createdAt: "2021",
+      updatedAt: "10PM",
       speakers: [
-        Speaker(name: "Elton John", avatar: "images/m1.jpeg"),
-        Speaker(name: "Dua Lipa", avatar: "images/dua-lipa.jpeg")
+        Speaker(name: "Kay Trần", avatar: "images/ms4.jpg"),
+        Speaker(name: "Sơn Tùng MTP", avatar: "images/sg2.jpg")
       ]
   ),
   Music(
-      name: "Cold Heart (PNAU Remix)",
-      avatar: "images/m1.jpeg",
-      author: "Elton John & Dua Lipa",
+      name: "Hoa Hải Đường",
+      avatar: "images/ms5.jpg",
+      author: "Jack",
       content: "It's a human sign When things go wrong When the scent of her lingers And temptation's strong Cold, cold heart Hard done by you Some things looking better, baby Just passing through (oh, no, no, no, no)",
-      createdAt: "28 - 29 Jun 2021",
-      updatedAt: "4PM - 6PM",
+      createdAt: "2021",
+      updatedAt: "0AM",
       speakers: [
-        Speaker(name: "Elton John", avatar: "images/m1.jpeg"),
-        Speaker(name: "Dua Lipa", avatar: "images/dua-lipa.jpeg")
+        Speaker(name: "Jack", avatar: "images/jack.jpg"),
       ]
   ),
   Music(
-      name: "Cold Heart (PNAU Remix)",
-      avatar: "images/m2.jpeg",
-      author: "Elton John & Dua Lipa",
+      name: "Hold On",
+      avatar: "images/ms6.jpg",
+      author: "Justin Bieber",
       content: "It's a human sign When things go wrong When the scent of her lingers And temptation's strong Cold, cold heart Hard done by you Some things looking better, baby Just passing through (oh, no, no, no, no)",
-      createdAt: "28 - 21 Jun 2021",
-      updatedAt: "4PM - 6PM",
+      createdAt: "2021",
+      updatedAt: "12AM",
       speakers: [
-        Speaker(name: "Elton John", avatar: "images/m1.jpeg"),
-        Speaker(name: "Dua Lipa", avatar: "images/dua-lipa.jpeg")
+        Speaker(name: "Justin Bieber", avatar: "images/justin.jpg"),
       ]
   ),
   Music(
-      name: "Cold Heart (PNAU Remix)",
-      avatar: "images/m1.jpeg",
-      author: "Elton John & Dua Lipa",
+      name: "See You Again",
+      avatar: "images/ms7.jpg",
+      author: "Wiz Khalifa ft Charlie Puth",
       content: "It's a human sign When things go wrong When the scent of her lingers And temptation's strong Cold, cold heart Hard done by you Some things looking better, baby Just passing through (oh, no, no, no, no)",
-      createdAt: "28 - 29 Jun 2021",
-      updatedAt: "4PM - 6PM",
+      createdAt: "07 Apr 2015",
+      updatedAt: "12AM",
       speakers: [
-        Speaker(name: "Elton John", avatar: "images/m1.jpeg"),
-        Speaker(name: "Dua Lipa", avatar: "images/dua-lipa.jpeg")
+        Speaker(name: "Wiz Khalifa", avatar: "images/wiz.png"),
+        Speaker(name: "Charlie Puth", avatar: "images/chputh.jpg")
       ]
   ),
   Music(
-      name: "Cold Heart (PNAU Remix)",
-      avatar: "images/m2.jpeg",
-      author: "Elton John & Dua Lipa",
+      name: "FACE(페이스)",
+      avatar: "images/ms8.jpg",
+      author: "NU'EST",
       content: "It's a human sign When things go wrong When the scent of her lingers And temptation's strong Cold, cold heart Hard done by you Some things looking better, baby Just passing through (oh, no, no, no, no)",
-      createdAt: "28 - 29 Jun 2021",
-      updatedAt: "4PM - 6PM",
+      createdAt: "14 Mar 2012",
+      updatedAt: "0AM",
       speakers: [
-        Speaker(name: "Elton John", avatar: "images/m1.jpeg"),
-        Speaker(name: "Dua Lipa", avatar: "images/dua-lipa.jpeg")
+        Speaker(name: "NU'EST", avatar: "images/ms8.jpg"),
       ]
   ),
   Music(
-      name: "Cold Heart (PNAU Remix)",
-      avatar: "images/m1.jpeg",
-      author: "Elton John & Dua Lipa",
+      name: "Phía Sau Em",
+      avatar: "images/ms9.jpg",
+      author: "Kay Trần ft Binz",
       content: "It's a human sign When things go wrong When the scent of her lingers And temptation's strong Cold, cold heart Hard done by you Some things looking better, baby Just passing through (oh, no, no, no, no)",
-      createdAt: "28 - 29 Jun 2021",
-      updatedAt: "4PM - 6PM",
+      createdAt: "20 Nov 2015",
+      updatedAt: "12PM",
       speakers: [
-        Speaker(name: "Elton John", avatar: "images/m1.jpeg"),
-        Speaker(name: "Dua Lipa", avatar: "images/dua-lipa.jpeg")
+        Speaker(name: "Kay Trần", avatar: "images/ms4.jpg"),
+        Speaker(name: "Binz", avatar: "images/binz.jpg"),
       ]
   ),
   Music(
-      name: "Cold Heart (PNAU Remix)",
-      avatar: "images/m2.jpeg",
-      author: "Elton John & Dua Lipa",
+      name: "BigCityBoi",
+      avatar: "images/ms10.jpg",
+      author: "Binz ft Touliver",
       content: "It's a human sign When things go wrong When the scent of her lingers And temptation's strong Cold, cold heart Hard done by you Some things looking better, baby Just passing through (oh, no, no, no, no)",
-      createdAt: "28 - 29 Jun 2021",
-      updatedAt: "4PM - 6PM",
+      createdAt: "05 July 2020",
+      updatedAt: "7PM",
       speakers: [
-        Speaker(name: "Elton John", avatar: "images/m1.jpeg"),
-        Speaker(name: "Dua Lipa", avatar: "images/dua-lipa.jpeg")
+        Speaker(name: "Binz", avatar: "images/binz.jpg"),
+        Speaker(name: "Touliver", avatar: "images/tou.jpg")
       ]
   ),
   

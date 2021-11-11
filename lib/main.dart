@@ -3,8 +3,6 @@ import 'package:stacked/stacked.dart';
 import 'package:uda_home/model/fellow.dart';
 import 'package:uda_home/view/FellowView.dart';
 import 'package:uda_home/view/HomeView.dart';
-import 'package:uda_home/view/ListMusicView.dart';
-import 'package:uda_home/view/PlayMusicView.dart';
 import 'package:uda_home/view/SlideList.dart';
 import 'package:uda_home/viewmodel/PrefViewModel.dart';
 
