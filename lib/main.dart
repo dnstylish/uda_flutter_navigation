@@ -52,7 +52,7 @@ class ContentView extends StatelessWidget {
 class BaseView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // Using the reactive constructor gives you the traditional ViewModel
+    // Using the realctive constructor gives you the traditional ViewModel
     // binding which will execute the builder again when notifyListeners is called.
     return ViewModelBuilder<PrefViewModel>.reactive(
       viewModelBuilder: ()=> PrefViewModel(),
