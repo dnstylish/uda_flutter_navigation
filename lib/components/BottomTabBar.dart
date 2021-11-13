@@ -11,16 +11,16 @@ class BottomTabBar extends ViewModelWidget<PrefViewModel> {
     return BottomNavigationBar(
       items: [
         BottomNavigationBarItem(
-          icon: Icon(Icons.search),
-          label: 'Search',
+          icon: Icon(Icons.home),
+          label: 'Home',
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.question_answer),
           label: 'Chat',
         ),
         BottomNavigationBarItem(
-          icon: Icon(Icons.home),
-          label: 'Home',
+          icon: Icon(Icons.search),
+          label: 'Search',
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.signal_cellular_alt),
